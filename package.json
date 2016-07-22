@@ -1,0 +1,43 @@
+{
+  "name": "fs-repo-url",
+  "description": "Get the repository url from a path to a repo.",
+  "keywords": [
+    "fs",
+    "repo",
+    "url",
+    "get",
+    "the",
+    "repository",
+    "from",
+    "a",
+    "path",
+    "to"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/fs-repo-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/fs-repo-url/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/fs-repo-url#readme"
+}
