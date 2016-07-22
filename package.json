@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "node test/index.js"
+  },
   "name": "fs-repo-url",
   "description": "Get the repository url from a path to a repo.",
   "keywords": [
@@ -16,9 +19,6 @@
   "license": "MIT",
   "version": "1.0.0",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "files": [
     "bin/",
@@ -39,5 +39,12 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/fs-repo-url/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/fs-repo-url#readme"
+  "homepage": "https://github.com/IonicaBizau/fs-repo-url#readme",
+  "dependencies": {
+    "err": "^2.1.3",
+    "gitconfiglocal": "^2.0.1"
+  },
+  "devDependencies": {
+    "tester": "^1.3.4"
+  }
 }
