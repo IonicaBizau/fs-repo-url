@@ -17,7 +17,7 @@
     "to"
   ],
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/index.js",
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "files": [
@@ -30,7 +30,10 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ],
   "repository": {
     "type": "git",
