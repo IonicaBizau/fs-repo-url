@@ -17,7 +17,7 @@
     "to"
   ],
   "license": "MIT",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "lib/index.js",
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "files": [
